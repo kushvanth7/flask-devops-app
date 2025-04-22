@@ -10,7 +10,7 @@ app = Flask(__name__, template_folder="app/templates")
 app.secret_key = "your_secret_key_here"
 
 EMAIL_ADDRESS = "kushvanth2917@gmail.com"
-EMAIL_PASSWORD = "Kushv@nth_17"
+EMAIL_PASSWORD = "xrdp ehix smhm wnqq"
 RECAPTCHA_SECRET = "6LeTxiArAAAAACtfDlD6XSxr3uRnLkS_YnorzsHW"
 
 def send_email(name, email, message):
