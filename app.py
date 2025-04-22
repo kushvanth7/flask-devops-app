@@ -11,7 +11,7 @@ app.secret_key = "your_secret_key_here"
 
 EMAIL_ADDRESS = "kushvanth2917@gmail.com"
 EMAIL_PASSWORD = "Kushv@nth_17"
-RECAPTCHA_SECRET = "your_recaptcha_secret_key"
+RECAPTCHA_SECRET = "6LeTxiArAAAAACtfDlD6XSxr3uRnLkS_YnorzsHW"
 
 def send_email(name, email, message):
     msg = EmailMessage()
